@@ -1,0 +1,13 @@
+.full{
+    height: 500px;
+}
+input{
+    margin-top: 10px;
+    height: 40px;
+    border: none;
+    border-radius: 2px;
+    width: 300px;
+}
+strong{
+    text-align: center;
+}
